@@ -70,7 +70,7 @@ cv2.destroyAllWindows()
 ## 🎨 Example Output
 | Original Image | Cartoon Image |
 |---------------|--------------|
-| ![Original](https://via.placeholder.com/200) | ![Cartoon](https://via.placeholder.com/200) |
+| ![Original](image.jpg) | ![Cartoon](cartoon_image.jpg) |
 
 ## 🔥 Contributing
 Feel free to improve this project by submitting a pull request!
