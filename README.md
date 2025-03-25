@@ -1,4 +1,5 @@
-# cv_homework2
+# cv_homework2 Name_나잉 Student ID-23101170
+
 # Cartoonify Image using OpenCV
 
 Convert any image into a cartoon-style image using OpenCV and Python!
